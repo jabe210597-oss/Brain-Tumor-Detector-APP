@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Brain Tumor Detector",
+  "description": "An AI-powered application to detect and localize brain tumors from MRI scans. Upload an MRI image to receive an AI-generated analysis, including tumor presence, confidence score, and location description.",
+  "requestFramePermissions": []
+}
